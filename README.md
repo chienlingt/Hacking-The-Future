@@ -35,8 +35,8 @@ start the program by running DsAssignment\src\main\java\Login\Home.java
 Various data structures are implemented to handle user accounts, event management, and bookings efficiently, such as linked list, maps, array and so on.
 
 ## Sustainable Development Goals:
-SDG 04: Quality Education
-SDG 09: Industry, Innovation, and Infrastructure
-SDG 17: Partnership for the Goals
+- SDG 04: Quality Education
+- SDG 09: Industry, Innovation, and Infrastructure
+- SDG 17: Partnership for the Goals
 
 This project provides a comprehensive and innovative solution to enhance STEM learning through experiential, gamified, and interactive content.
